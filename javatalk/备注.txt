@@ -1,2 +1,3 @@
-һ���򵥵Ļ���socket���̵߳�java��̵�PCС����
-A1��B1�ǸĽ���
+一个简单的基础socket和线程的java编程的PC小程序
+A1与B1是改进版
+关于socket和其他流的关闭还没有做出比较完善的处理
